@@ -1,5 +1,5 @@
 name: senai_automacao_vitorp
-run-name: ${{ github.actor }} Pipeline deploy $
+run-name: ${{ github.actor }} Pipeline deploy !
 on:
   push:
     branches:
